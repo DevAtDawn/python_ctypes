@@ -1,0 +1,1 @@
+g++ -fPIC -shared -o libTest.so lib.cpp
